@@ -1,0 +1,36 @@
+Order ID,Region,Product,Sales,Date
+1001,North ,Laptop,45000,2024-01-05
+1002,South,Mouse  ,1200,2024-01-06
+1003,East,Keyboard,2500,2024-01-07
+1004, West,Monitor,15000,2024-01-08
+1005,North,Laptop,45000,2024-01-05
+1006,South,Mouse,1200,2024-01-09
+,,,,
+1007,East ,Headphones,3000,2024-01-10
+1008,West,Monitor,15000,2024-01-11
+1009,North,Keyboard ,2500,2024-01-12
+1010,South,Laptop,46000,2024-01-13
+1011,East,Mouse,1300,2024-01-14
+,,,,
+1012, North,Monitor,15500,2024-01-15
+1013,West,Headphones,3200,2024-01-16
+1014,South,Keyboard,2600,2024-01-17
+1004,West,Monitor,15000,2024-01-08
+1015,East,Laptop,47000,2024-01-18
+1016,North,Mouse ,1250,2024-01-19
+1017,South,Monitor,15800,2024-01-20
+,,,,
+1018,West,Keyboard,2700,2024-01-21
+1019,East,Mouse,1400,2024-01-22
+1020,North,Headphones,3100,2024-01-23
+1021,South,Laptop,46500,2024-01-24
+1009,North,Keyboard,2500,2024-01-12
+1022,West,Monitor,16000,2024-01-25
+1023,East,Keyboard ,2800,2024-01-26
+1024,North,Mouse,1280,2024-01-27
+1025,South,Headphones,3300,2024-01-28
+1026, West,Laptop,47500,2024-01-29
+1027,East,Monitor,16200,2024-01-30
+1028,North,Keyboard,2900,2024-01-31
+1029,South,Mouse,1350,2024-02-01
+1030,West,Headphones,3400,2024-02-02
